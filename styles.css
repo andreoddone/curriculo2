@@ -1,4 +1,4 @@
-/*****paleta de cores usada https://colorhunt.co/palette/1fab8962d2a29df3c4d7fbe8******/
+/*****paleta de cores usada https://colorhunt.co/palette/1fab8962d2a29df3c4d7fbe8/******/
 body {
   background-color: #D7FBE8;
   font-family: fantasy;
@@ -15,8 +15,7 @@ hr {
 img {
   width: 200px;
   height: 200px;
-  border-radius: 100%;
-  
+  border-radius: 100%; 
 }
 
 a:hover {
@@ -33,4 +32,12 @@ h2 {
 
 h3 {
   color: #228b22;
+}
+
+/*****teste****/
+.titulo1 {
+color: red
+}
+.titulo2 {
+color: yellow
 }
