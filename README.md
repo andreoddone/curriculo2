@@ -1,1 +1,1 @@
-# curriculo2
+# curriculo André Castanheira Oddone com HTML e CSS
