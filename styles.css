@@ -1,0 +1,36 @@
+/*****paleta de cores usada https://colorhunt.co/palette/1fab8962d2a29df3c4d7fbe8******/
+body {
+  background-color: #D7FBE8;
+  font-family: fantasy;
+  margin: 20px;
+}
+
+hr {
+  border-color: #1FAB89;
+  width: 100%;
+  border-style: double none none;
+  border-top-width: 7px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  
+}
+
+a:hover {
+  color: blue;
+}
+
+h1 {
+  color: #008000;
+}
+
+h2 {
+  color: #228b22;
+}
+
+h3 {
+  color: #228b22;
+}
